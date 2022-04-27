@@ -2,6 +2,6 @@
 Repositório para Desafio DIO - Git/Github.
 
 ## Treinos semanais 
-###Bike
-###Corrida
-###Musculação
+### Bike
+### Corrida
+### Musculação
